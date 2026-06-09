@@ -1,20 +1,4 @@
-# Graph · FastAPI Application
-
-<p align="center">
-  <i><b>Production-ready FastAPI backend</b> - layered architecture, unified response format, session-based auth.</i>
-</p>
-
-<p align="center">
-  <a href="https://fastapi.tiangolo.com">
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  </a>
-  <a href="https://www.postgresql.org">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
-  <a href="https://redis.io">
-      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" alt="Redis">
-  </a>
-</p>
+# FastAPI Hyperf Application
 
 ## Features
 
@@ -79,7 +63,7 @@ Graph/
 ```bash
 # Clone and install dependencies
 git clone <repo-url>
-cd Graph
+cd fastapi hyperf
 uv sync
 
 # Configure environment
